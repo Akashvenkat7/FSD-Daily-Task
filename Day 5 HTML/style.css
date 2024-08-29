@@ -1,0 +1,66 @@
+.bikes {
+    color: rgb(0, 0, 0);
+    background-color: rgb(196, 204, 204);
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    margin: auto
+}
+
+#para {
+    color: blueviolet;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+    font-style: italic;
+
+}
+
+a {
+    font-size: large;
+}
+
+a:link {
+    color: blue;
+}
+
+/* Visited link */
+a:visited {
+    color: purple;
+}
+
+/* Hovered link */
+a:hover {
+    color: red;
+}
+
+/* Active link */
+a:active {
+    color: green;
+}
+
+button {
+    padding: 5px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+button:hover {
+    background-color: orangered;
+}
+
+button:active {
+    color: rgb(105, 173, 4);
+    background-color: yellow;
+}
+
+p {
+    padding: 10px;
+    font-size: 25px;
+}
